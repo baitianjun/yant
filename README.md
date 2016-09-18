@@ -1,0 +1,2 @@
+# yant
+yii  game create
